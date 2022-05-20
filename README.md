@@ -70,7 +70,7 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
    - 속성 창 왼쪽 상단에서 선택한 구성이 "debug"이고 플랫폼이 "x64"인지 확인
    - 왼쪽 패널에서 C/C++를 선택
    - [디렉토리 추가] 필드에 두 개의 디렉토리를 추가
-      +"D:\opencv\opencv\build\include"
+      + "D:\opencv\opencv\build\include"
 "D:\dlib\dlib-19.2"
 dlib 버전이 다른 경우 경로가 다를 수 있습니다.
 왼쪽 패널에서 링커> 일반을 선택합니다.
