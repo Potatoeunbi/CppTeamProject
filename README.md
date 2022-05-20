@@ -71,43 +71,44 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
    - 왼쪽 패널에서 C/C++를 선택
    - [디렉토리 추가] 필드에 두 개의 디렉토리를 추가
       + "D:\opencv\opencv\build\include"
-"D:\dlib\dlib-19.2"
-dlib 버전이 다른 경우 경로가 다를 수 있습니다.
-왼쪽 패널에서 링커> 일반을 선택합니다.
-추가 라이브러리 디렉토리에서 "D:\opencv\opencv\build\x64\vc14\lib"를 추가하십시오.
-아키텍처 또는 VS 버전이 다른 경우 경로가 다를 수 있습니다.
-왼쪽 패널에서 링커> 입력을 선택합니다.
-추가 종속성에서 "opencv_world320d.lib"를 추가하십시오.
-적용 클릭
-왼쪽 상단의 구성을 "릴리스"로 변경하고 반복하십시오.
+      + "D:\dlib\dlib-19.2"
+      + dlib 버전이 다른 경우 경로가 다를 수 있음
+   - 왼쪽 패널에서 링커 > 일반을 선택
+   - 추가 라이브러리 디렉토리에서 "D:\opencv\opencv\build\x64\vc14\lib"를 추가
+      + 아키텍처 또는 VS 버전이 다른 경우 경로가 다를 수 있음
+   - 왼쪽 패널에서 링커 > 입력을 선택
+   - 추가 종속성에서 "opencv_world320d.lib"를 추가
+   - 적용 클릭
+ 
+* 왼쪽 상단의 구성을 "Release"로 변경하고 반복
 
-릴리스 구성 설정
+* 릴리스 구성 설정
+   - 왼쪽 패널에서 C/C++를 선택
+   - [디렉토리 추가] 필드에 두 개의 디렉토리를 추가
+      + "D:\opencv\opencv\build\include"
+      + "D:\dlib\dlib-19.2"
+      + dlib 버전이 다른 경우 경로가 다를 수 있음
+   - 왼쪽 패널에서 링커> 일반을 선택
+   - 추가 라이브러리 디렉토리에서 "D:\opencv\opencv\build\x64\vc14\lib"를 추가
+      + 아키텍처 또는 VS 버전이 다른 경우 경로가 다를 수 있음
+   - 왼쪽 패널에서 링커 > 입력을 선택
+   - 추가 Dependencies에서 "opencv_world320.lib"를 추가
 
-왼쪽 패널에서 C/C++를 선택합니다.
-추가 포함 디렉터리 필드에 두 개의 디렉터리를 추가합니다.
-"D:\opencv\opencv\build\include"
-"D:\dlib\dlib-19.2"
-dlib 버전이 다른 경우 경로가 다를 수 있습니다.
-왼쪽 패널에서 링커> 일반을 선택합니다.
-추가 라이브러리 디렉토리에서 "D:\opencv\opencv\build\x64\vc14\lib"를 추가하십시오.
-아키텍처 또는 VS 버전이 다른 경우 경로가 다를 수 있습니다.
-왼쪽 패널에서 링커> 입력을 선택합니다.
-추가 종속성에서 "opencv_world320.lib"를 추가하십시오.
-속성 창 닫기
+* 속성 창 닫기
 
-솔루션 탐색기에서 소스 파일을 마우스 오른쪽 버튼으로 클릭
+* Solution Explorer에서 소스 파일을 마우스 오른쪽 버튼으로 클릭
 
-"기존 항목 추가..."를 선택하고 이 프로젝트에서 .cpp 파일을 추가합니다.
+* "기존 항목 추가..."를 선택하고 이 프로젝트에서 .cpp 파일을 추가
 
-솔루션 탐색기에서 헤더 파일을 마우스 오른쪽 버튼으로 클릭
+* Solution Explorer에서 헤더 파일을 마우스 오른쪽 버튼으로 클릭
 
-"기존 항목 추가..."를 선택하고 이 프로젝트의 .h 파일을 추가합니다.
+* "기존 항목 추가..."를 선택하고 이 프로젝트의 .h 파일을 추가
 
-OpenCV 소스/데이터/haarcascades 디렉토리에서 프로젝트 디렉토리로 haarcascade_frontalface_default.xml 복사
+* OpenCV sources/data/haarcascades 디렉토리에서 프로젝트 디렉토리로 haarcascade_frontalface_default.xml를 복사
 
-http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2 에서 shape_predictor_68_face_landmarks.dat를 다운로드 하고 프로젝트 디렉토리에 배치합니다.
+* http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2 에서 shape_predictor_68_face_landmarks.dat를 다운로드 하고 프로젝트 디렉토리에 배치
 
-그 후에 FaceSwap이 작동해야 합니다.
+-> 그 후에 FaceSwap이 작동!
 
 
 ### 4. 결과물
