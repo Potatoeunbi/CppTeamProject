@@ -154,7 +154,5 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 [1] Be into OTT bring the TV age to an end(2016). https://bravo.etoday.co.kr/view/atc_view.php?varAtcId=4899 (accessed May 19, 2022)   
 [2] An employee's labor contract that hasn't taken a step back "KBS first"(2021). http://www.mediatoday.co.kr/news/articleView.html?idxno=213153 (accessed May 19, 2022)   
 [3] "The fare has gone up, but there's nothing to watch." Annoying Netflix users, "Oh My!"(2022). http://mbiz.heraldcorp.com/view.php?ud=20220506000561 (accessed May 20, 2022) 
-
-
-[4] https://www.kca.kr/fileDownload.do?action=fileDown&mode=&boardId=TRENDS&seq=5310642&fileSn=1
+[4] Korea Creative Content Agency, "딥페이크 기술의 빛과 그림자", https://www.kca.kr/fileDownload.do?action=fileDown&mode=&boardId=TRENDS&seq=5310642&fileSn=1 (accessed May 20, 2022) 
  
