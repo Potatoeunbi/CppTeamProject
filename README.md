@@ -120,7 +120,7 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 
 * http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2 에서 shape_predictor_68_face_landmarks.dat를 다운로드 하고 프로젝트 디렉토리에 배치
 
--> 그 후에 FaceSwap이 작동!
+#### -> 그 후에 FaceSwap이 작동!
 
 
 ## 4. 결과물
