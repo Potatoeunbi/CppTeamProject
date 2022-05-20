@@ -126,8 +126,8 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 ![image](https://user-images.githubusercontent.com/93712785/169538430-b2633456-67d7-4bea-a2cb-8d0e520d98fa.png)
 
 
-2) 기대효과 및 활용방안
-
+### 2) 기대효과 및 활용방안
+ 
 
 ## 5. 수행일정(도표)
 
