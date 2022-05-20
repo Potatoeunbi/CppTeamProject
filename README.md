@@ -120,14 +120,14 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 2) 기대효과 및 활용방안
 
 
-5. 수행일정(도표)
+## 5. 수행일정(도표)
 
 번호/내용 / 추진일정/비고
 
 
-6. 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
+## 6. 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
 
 [1] Be into OTT bring the TV age to an end(2016). https://bravo.etoday.co.kr/view/atc_view.php?varAtcId=4899 (accessed May 20, 2022)   
-[2] An employee's labor contract that hasn't taken a step back "KBS first"(2021). http://www.mediatoday.co.kr/news/articleView.html?idxno=213153 (accessed May 20, 2022)
+[2] An employee's labor contract that hasn't taken a step back "KBS first"(2021). http://www.mediatoday.co.kr/news/articleView.html?idxno=213153 (accessed May 20, 2022)   
 [3] http://mbiz.heraldcorp.com/view.php?ud=20220506000561
  
