@@ -126,6 +126,7 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 
 6. 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
 
-[1]
-
+[1]https://bravo.etoday.co.kr/view/atc_view.php?varAtcId=4899
+http://www.mediatoday.co.kr/news/articleView.html?idxno=213153
+http://mbiz.heraldcorp.com/view.php?ud=20220506000561
 [2] 
