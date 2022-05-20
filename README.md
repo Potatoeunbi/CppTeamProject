@@ -129,5 +129,8 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 
 [1] Be into OTT bring the TV age to an end(2016). https://bravo.etoday.co.kr/view/atc_view.php?varAtcId=4899 (accessed May 20, 2022)   
 [2] An employee's labor contract that hasn't taken a step back "KBS first"(2021). http://www.mediatoday.co.kr/news/articleView.html?idxno=213153 (accessed May 20, 2022)   
-[3] http://mbiz.heraldcorp.com/view.php?ud=20220506000561
+[3] http://mbiz.heraldcorp.com/view.php?ud=20220506000561   
+
+
+https://www.kca.kr/fileDownload.do?action=fileDown&mode=&boardId=TRENDS&seq=5310642&fileSn=1
  
