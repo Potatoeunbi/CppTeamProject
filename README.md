@@ -34,7 +34,7 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 
 ## 3. 과제 목표 및 내용
 
-### 1) 정량적/정성적 목표 (평가기준이 있으면 좋음)
+### 1) 정량적/정성적 목표
 
 #### 정량적 목표
 <img src="https://user-images.githubusercontent.com/93712785/169517967-92e350b1-0c2e-4992-a58c-176cd909911f.png"  width="600" height="600"/>
@@ -143,7 +143,7 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
    - 할리우드를 비롯한 영상 제작 업계에서는 딥페이크 기술로 특수효과를 만들어 내고 있다. 특히 과거를 재현하거나 더 이상 실존하지 인물을 그리고자 할 때 유용하게 활용되고 있다. 2016년에 개봉한 영화 <Rogue One>4 에는 1977년 작 <Star Wars: A New Hope>에 출현한 배우가 당시의 모습 그대로 등장했다. <Rogue One> 제작진은 배우와 외형적으로 유사한 대역 배우를 섭외한 후, 모션 캡처 기법과 딥페이크 기술을 활용하여 대역 배우의 얼굴에 과거 배우의 얼굴을 합성하는 방식으로 영화를 촬영했다. Netflix도 딥페이크 기술을 활용해 주연 배우의 현재와 과거 모습을 동시에 재현해 낸 <The Irishman>의 출시를 예고했다. 
 * FaceSwap 기술은 영상뿐 아니라, 오디오, 사진, 문서 등에서 다방면으로 활용이 가능하다.
    
-## 5. 수행일정(도표)
+## 5. 수행일정
 
 |번호|내용|추진일정|비고|
 |--|----------|------|---|
@@ -160,7 +160,7 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 
 
 
-## 6. 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
+## 6. 참고문헌 및 자료
 
 [1] Be into OTT bring the TV age to an end(2016). https://bravo.etoday.co.kr/view/atc_view.php?varAtcId=4899 (accessed May 19, 2022)   
 [2] An employee's labor contract that hasn't taken a step back "KBS first"(2021). http://www.mediatoday.co.kr/news/articleView.html?idxno=213153 (accessed May 19, 2022)   
