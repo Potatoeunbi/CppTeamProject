@@ -117,10 +117,12 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 
 ### 1) 예상 결과물
 
-* Before
+* Before   
+
 ![image](https://user-images.githubusercontent.com/93712785/169538395-60e05456-bdec-45c9-9288-88dff0acbe6e.png)
 
-* After
+* After   
+
 ![image](https://user-images.githubusercontent.com/93712785/169538430-b2633456-67d7-4bea-a2cb-8d0e520d98fa.png)
 
 
