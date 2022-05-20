@@ -36,7 +36,7 @@ OpenCV를 이용한 실시간 FaceSwap 응용 프로그램 구축 및 실습
 1) 정량적/정성적 목표 (평가기준이 있으면 좋음)
 
 ![image](https://user-images.githubusercontent.com/93712785/169517967-92e350b1-0c2e-4992-a58c-176cd909911f.png)
-
+<img src="[/path/to/img.jpg](https://user-images.githubusercontent.com/93712785/169517967-92e350b1-0c2e-4992-a58c-176cd909911f.png)" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="ott"></img><br/>
 
 2) 과제의 내용 (글, 그림, 표, 사진 등으로 이 내용을 보면
 
